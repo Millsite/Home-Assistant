@@ -11,4 +11,4 @@
 
 ## cables
 
-[P1 Smart meter connection:] (aliexpress.com/item/33025118684.html)
+[P1 Smart meter connection:](aliexpress.com/item/33025118684.html)
