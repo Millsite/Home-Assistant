@@ -1,0 +1,19 @@
+x	sensor.afvalwijzer_day_after_tomorrow
+	sensor.afvalwijzer_day_after_tomorrow_formatted
+
+x	sensor.afvalwijzer_gft_groente_fruit_en_tuinafval
+	sensor.afvalwijzer_grof_tuinafval
+	sensor.afvalwijzer_klein_chemisch_afval_kca
+x	sensor.afvalwijzer_muziekvereniging_euphonia
+
+x	sensor.afvalwijzer_next_date
+x	sensor.afvalwijzer_next_in_days
+x	sensor.afvalwijzer_next_type
+	sensor.afvalwijzer_next_type_formatted
+
+	sensor.afvalwijzer_plastic_blik_en_drankenkartons
+x	sensor.afvalwijzer_restafval
+x	sensor.afvalwijzer_today
+	sensor.afvalwijzer_today_formatted
+x	sensor.afvalwijzer_tomorrow
+	sensor.afvalwijzer_tomorrow_formatted

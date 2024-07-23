@@ -1,0 +1,6 @@
+{{now().strftime('%d %b') }}
+
+{{ as_timestamp(state_attr('sensor.afvalwijzer_grof_tuinafval','isoformatted_date')).strftime('%d %b') }}
+
+{{ as_timestamp(states('sensor.afvalwijzer_restafval'), default ='xxx')}}
+
